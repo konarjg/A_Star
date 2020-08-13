@@ -1,0 +1,10 @@
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\konis\source\repos\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
